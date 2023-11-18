@@ -1,8 +1,5 @@
-hjkhkh
-def ghg(d):
-    ffggg
-    ddff
-    if hjkk:
-        ffff
-        fff
-        
+def print_f(x):
+    x=''ya krevedko''
+    print(x)
+    
+print_f()
